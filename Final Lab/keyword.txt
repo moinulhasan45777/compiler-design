@@ -1,0 +1,1 @@
+while,for,const,cout,int,float,double,cin
